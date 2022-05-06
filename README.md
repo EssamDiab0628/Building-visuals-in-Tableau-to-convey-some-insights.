@@ -6,4 +6,6 @@ Use Tableau to build dashboards and worksheets explanatory visualizations.
 - difference in total delay time among months,
 - airlines have the most and least delay and flight cancelations,
 - total number of cancelations in days of week.
-#### The pdf of `Insights of flights dataset` is a report of the project including links to the dashboards and worksheets in Tableau Puplic, brief summaries and the design followed in the visuals.
+#### The Markdown of `Insights of flights dataset` is a report of the project including links to the dashboards and worksheets in Tableau Puplic, brief summaries and the design followed in the visuals.
+
+**[Here](https://video.udacity-data.com/topher/2017/December/5a3b1fad_flight-delays/flight-delays.zip) is a zipped file of the dataset, the file of `filghts` is the biggest one and has the main data used in the analysis`**
