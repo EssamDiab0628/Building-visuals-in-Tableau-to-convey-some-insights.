@@ -36,7 +36,7 @@ flights through the year. Atlantic Southeast Airlines come In the 2nd stage.
 (Saturday and Sunday) is the least and the most number of cancelation is on Monday. However, 
 for canceled flights the least number of cancelation is on Friday and the most is also on Monday.
 
-> **Design:** an tree map area chart is used to show the airlines cancelation flights, this chart 
+> **Design:** A tree map area chart is used to show the airlines cancelation flights, this chart 
 uses different areas colors to show which airlines have cancelations and the same as 
 the map in the 1st insight blue grades are used to be more comfortable and readable. A
 line chart is used to show the total number of flights on week days, and a list is used to 
