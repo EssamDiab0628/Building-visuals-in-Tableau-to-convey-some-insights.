@@ -12,7 +12,7 @@ specially those who suffer from colorblindness. A line chart is used to give cha
 delay among months.
 
 # Second insight: 
-> **Link to Tableau Puplic:** [here](https://public.tableau.com/views/Desinationsanddelaytimesthroughthemonthsofyear/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+> **Link to Tableau Puplic:** [here](https://public.tableau.com/views/arrivaldelayofairlines/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 > **Summary:**
 - Southwest Airlines Co is the airline having the most delay time in total compared to all other 
