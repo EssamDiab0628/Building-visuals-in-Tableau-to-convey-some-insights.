@@ -1,5 +1,5 @@
 # First insight:
-> **Link in Tableau Puplic:**[here](https://public.tableau.com/views/Desinationsanddelaytimesthroughthemonthsofyear/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+> **Link to Tableau Puplic:** [here](https://public.tableau.com/views/Desinationsanddelaytimesthroughthemonthsofyear/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 > **Summary:**
 - Texas and California have the most delay time in total.
@@ -12,8 +12,8 @@ specially those who suffer from colorblindness. A line chart is used to give cha
 delay among months.
 
 # Second insight: 
-> **Link in Tableau Puplic::**
-> [here](https://public.tableau.com/views/Desinationsanddelaytimesthroughthemonthsofyear/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+> **Link to Tableau Puplic:** [here](https://public.tableau.com/views/Desinationsanddelaytimesthroughthemonthsofyear/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 > **Summary:**
 - Southwest Airlines Co is the airline having the most delay time in total compared to all other 
 airlines.
@@ -25,7 +25,7 @@ suitable to give information about every airline.
 
 # Third insight:
 
-> **Link in Tableau Puplic:**
+> **Link to Tableau Puplic:**
 [here](https://public.tableau.com/shared/3KQKQQ4TC?:display_count=n&:origin=viz_share_link)
 
 > **Summary:**
@@ -40,4 +40,4 @@ for canceled flights the least number of cancelation is on Friday and the most i
 uses different areas colors to show which airlines have cancelations and the same as 
 the map in the 1st insight blue grades are used to be more comfortable and readable. A
 line chart is used to show the total number of flights on week days, and a list is used to 
-filter whether we want to show canceled or not canceled flights 
+filter whether we want to show canceled or not canceled flights.
